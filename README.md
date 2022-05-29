@@ -21,8 +21,8 @@ Tools TrollPro adalah Tools Yang Bisa Spam Telfon, SMS WA tanpa biyaya, Ini coco
 
 ### [+] Installation
 
- - `pkg update && pkg upgrade 
- - `pkg install git
+ - `pkg update && pkg upgrade` 
+ - `pkg install git`
  - `git clone https://github.com/AnonDevils/TrollPro`
  - `cd TrollPro`
 
